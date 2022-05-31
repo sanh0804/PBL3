@@ -1,0 +1,6 @@
+#include "luong.h"
+
+luongh::luongh()
+{
+
+}
